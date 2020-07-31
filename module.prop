@@ -1,6 +1,7 @@
-id=NFC4PRA-GSI
-name=NFC for PRA-LX1 on GSI
-version=v3.2
-versionCode=32
-author=ponces
-description=All you need to get NFC on GSI ROM's for Kirin 655 devices. It may work on other devices too. It's tested on Huawei P8 Lite 2017 (Kirin 655) while running phhusson's Treble AOSP.
+id=NFC_4_Kirin
+name=NFC 4 Kirin
+version=v1
+versionCode=1
+author=MCBlesk
+description=Fix NFC binaries on Kirin devices. More info on XDA.
+support=https://forum.xda-developers.com/huawei-p-smart/themes/nfc-fix-kirin-devices-t4140773
